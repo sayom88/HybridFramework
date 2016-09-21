@@ -1,0 +1,40 @@
+2016-09-21 09:43:34,746 INFO  [Log] **************************************************************************************** 
+2016-09-21 09:43:34,747 INFO  [Log] **************************************************************************************** 
+2016-09-21 09:43:34,747 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-21 09:43:34,747 INFO  [Log] **************************************************************************************** 
+2016-09-21 09:43:34,747 INFO  [Log] **************************************************************************************** 
+2016-09-21 09:43:34,751 INFO  [Log] Opening Browser 
+2016-09-21 09:43:38,768 INFO  [Log] Mozilla browser started 
+2016-09-21 09:43:39,169 INFO  [Log] Navigating to URL 
+2016-09-21 09:43:56,993 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-21 09:43:59,322 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-21 09:44:03,635 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-21 09:44:07,839 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-21 09:44:09,998 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-21 09:44:14,206 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-21 09:44:21,338 INFO  [Log] Closing the browser 
+2016-09-21 09:44:21,523 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-21 09:44:21,523 INFO  [Log] X 
+2016-09-21 09:44:21,523 INFO  [Log] X 
+2016-09-21 09:44:21,523 INFO  [Log] X 
+2016-09-21 09:44:21,523 INFO  [Log] X 
+2016-09-21 11:21:44,360 INFO  [Log] **************************************************************************************** 
+2016-09-21 11:21:44,360 INFO  [Log] **************************************************************************************** 
+2016-09-21 11:21:44,360 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-21 11:21:44,360 INFO  [Log] **************************************************************************************** 
+2016-09-21 11:21:44,360 INFO  [Log] **************************************************************************************** 
+2016-09-21 11:21:44,376 INFO  [Log] Opening Browser 
+2016-09-21 11:21:58,531 INFO  [Log] Mozilla browser started 
+2016-09-21 11:21:58,890 INFO  [Log] Navigating to URL 
+2016-09-21 11:22:12,653 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-21 11:22:15,007 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-21 11:22:19,245 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-21 11:22:23,492 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-21 11:22:25,600 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-21 11:22:29,799 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-21 11:22:36,935 INFO  [Log] Closing the browser 
+2016-09-21 11:22:45,657 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-21 11:22:45,657 INFO  [Log] X 
+2016-09-21 11:22:45,657 INFO  [Log] X 
+2016-09-21 11:22:45,657 INFO  [Log] X 
+2016-09-21 11:22:45,657 INFO  [Log] X 

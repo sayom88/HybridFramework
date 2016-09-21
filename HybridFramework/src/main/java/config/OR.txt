@@ -1,0 +1,5 @@
+# Yahoo Application : Home Page Objects
+txtbx_Appln-Yahoo_Username=.//*[@id='login-username']
+btn_Appln-Yahoo_Next=.//*[@id='login-signin']
+txtbx_Appln-Yahoo_Password=.//*[@id='login-passwd']
+btn_Appln-Yahoo_Sigin=.//*[@id='login-signin']
