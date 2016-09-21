@@ -3,9 +3,10 @@ package config;
 public class Constants {
 	
 	//System Variables
+
 //	public static final String URL = "https://login.yahoo.com/";
-	public static final String Path_TestData = "C://ECLIPSE_WORKSPACE//HybridFramework//src//main//java//dataEngine//DataEngine.xlsx";
-	public static final String Path_OR = "C://ECLIPSE_WORKSPACE//HybridFramework//src//main//java//config//OR.txt";
+	public static final String Path_TestData = "C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//HybridFramework//HybridFramework//src//main//java//dataEngine//DataEngine.xlsx";
+	public static final String Path_OR = "C://ECLIPSE_WORKSPACE//GITHUBREPOSITORY//HybridFramework//HybridFramework//src//main//java//config//OR.txt";
 	public static final String File_TestData = "DataEngine.xlsx";
 	public static final String KEYWORD_FAIL = "FAIL";
 	public static final String KEYWORD_PASS = "PASS";

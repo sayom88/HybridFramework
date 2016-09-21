@@ -38,3 +38,58 @@
 2016-09-21 11:22:45,657 INFO  [Log] X 
 2016-09-21 11:22:45,657 INFO  [Log] X 
 2016-09-21 11:22:45,657 INFO  [Log] X 
+2016-09-21 15:06:15,615 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2016-09-21 15:06:38,359 INFO  [Log] **************************************************************************************** 
+2016-09-21 15:06:38,360 INFO  [Log] **************************************************************************************** 
+2016-09-21 15:06:38,360 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-21 15:06:38,360 INFO  [Log] **************************************************************************************** 
+2016-09-21 15:06:38,360 INFO  [Log] **************************************************************************************** 
+2016-09-21 15:06:38,363 INFO  [Log] Opening Browser 
+2016-09-21 15:06:42,675 INFO  [Log] Mozilla browser started 
+2016-09-21 15:06:42,995 INFO  [Log] Navigating to URL 
+2016-09-21 15:06:57,400 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-21 15:06:59,694 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-21 15:07:03,929 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-21 15:07:08,217 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-21 15:07:10,380 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-21 15:07:14,560 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-21 15:07:21,792 INFO  [Log] Closing the browser 
+2016-09-21 15:07:23,456 ERROR [Log] Not able to Close the Browser --- Error communicating with the remote browser. It may have died.
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '9.79.254.225', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=13124, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: de31e542-126a-4f41-aaef-6a86ee8133a4 
+2016-09-21 15:07:28,565 INFO  [Log] Closing the browser 
+2016-09-21 15:07:36,696 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-21 15:07:36,696 INFO  [Log] X 
+2016-09-21 15:07:36,696 INFO  [Log] X 
+2016-09-21 15:07:36,696 INFO  [Log] X 
+2016-09-21 15:07:36,696 INFO  [Log] X 
+2016-09-21 15:07:50,820 INFO  [Log] **************************************************************************************** 
+2016-09-21 15:07:50,821 INFO  [Log] **************************************************************************************** 
+2016-09-21 15:07:50,821 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-21 15:07:50,821 INFO  [Log] **************************************************************************************** 
+2016-09-21 15:07:50,821 INFO  [Log] **************************************************************************************** 
+2016-09-21 15:07:50,824 INFO  [Log] Opening Browser 
+2016-09-21 15:07:54,769 INFO  [Log] Mozilla browser started 
+2016-09-21 15:07:55,202 INFO  [Log] Navigating to URL 
+2016-09-21 15:08:09,404 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-21 15:08:11,691 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-21 15:08:15,985 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-21 15:08:20,274 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-21 15:08:22,447 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-21 15:08:26,661 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-21 15:08:33,897 INFO  [Log] Closing the browser 
+2016-09-21 15:08:35,424 ERROR [Log] Not able to Close the Browser --- Error communicating with the remote browser. It may have died.
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '9.79.254.225', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=9580, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: f23913df-8592-4703-993a-d6d3e6af5618 
+2016-09-21 15:08:40,506 INFO  [Log] Closing the browser 
+2016-09-21 15:08:48,633 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-21 15:08:48,633 INFO  [Log] X 
+2016-09-21 15:08:48,633 INFO  [Log] X 
+2016-09-21 15:08:48,633 INFO  [Log] X 
+2016-09-21 15:08:48,633 INFO  [Log] X 
