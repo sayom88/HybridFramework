@@ -257,3 +257,354 @@ Session ID: a1550f02-9fc3-411c-a878-904cd3df1982
 2016-09-22 17:38:04,249 INFO  [Log] X 
 2016-09-22 17:38:04,249 INFO  [Log] X 
 2016-09-22 17:38:04,249 INFO  [Log] X 
+2016-09-22 20:47:08,524 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:47:08,524 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:47:08,524 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 20:47:08,524 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:47:08,524 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:47:08,531 INFO  [Log] Opening Browser 
+2016-09-22 20:47:12,283 INFO  [Log] Chrome browser started 
+2016-09-22 20:47:12,719 INFO  [Log] Navigating to URL 
+2016-09-22 20:47:21,338 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 20:47:23,975 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 20:47:28,724 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 20:47:33,358 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 20:47:35,825 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 20:47:40,337 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-22 20:47:47,871 INFO  [Log] Closing the browser 
+2016-09-22 20:47:57,184 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 20:47:57,184 INFO  [Log] X 
+2016-09-22 20:47:57,184 INFO  [Log] X 
+2016-09-22 20:47:57,184 INFO  [Log] X 
+2016-09-22 20:47:57,184 INFO  [Log] X 
+2016-09-22 20:47:57,185 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:47:57,185 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:47:57,185 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 20:47:57,185 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:47:57,185 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:47:57,187 INFO  [Log] Opening Browser 
+2016-09-22 20:48:02,201 INFO  [Log] Mozilla browser started 
+2016-09-22 20:48:02,330 INFO  [Log] Navigating to URL 
+2016-09-22 20:48:09,762 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 20:48:12,153 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 20:48:16,552 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 20:48:21,039 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 20:48:23,351 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 20:48:27,642 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-22 20:48:34,937 INFO  [Log] Closing the browser 
+2016-09-22 20:48:36,363 ERROR [Log] Not able to Close the Browser --- Error communicating with the remote browser. It may have died.
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=5708, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: 68463bd3-7ac6-410a-b6fa-39d40ea5831f 
+2016-09-22 20:48:41,410 INFO  [Log] Closing the browser 
+2016-09-22 20:48:49,468 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 20:48:49,469 INFO  [Log] X 
+2016-09-22 20:48:49,469 INFO  [Log] X 
+2016-09-22 20:48:49,469 INFO  [Log] X 
+2016-09-22 20:48:49,469 INFO  [Log] X 
+2016-09-22 20:48:49,469 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:48:49,469 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:48:49,469 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 20:48:49,469 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:48:49,469 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:48:49,471 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-09-22 20:48:49,472 INFO  [Log] Opening Browser 
+2016-09-22 20:48:52,277 INFO  [Log] IE browser started 
+2016-09-22 20:48:52,342 INFO  [Log] Navigating to URL 
+2016-09-22 20:48:59,948 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 20:49:02,652 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 20:49:07,483 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 20:49:12,246 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 20:49:15,031 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 20:49:19,650 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-22 20:49:27,379 INFO  [Log] Closing the browser 
+2016-09-22 20:49:36,467 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 20:49:36,468 INFO  [Log] X 
+2016-09-22 20:49:36,468 INFO  [Log] X 
+2016-09-22 20:49:36,468 INFO  [Log] X 
+2016-09-22 20:49:36,468 INFO  [Log] X 
+2016-09-22 20:54:48,665 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:54:48,666 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:54:48,666 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 20:54:48,666 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:54:48,666 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:54:48,671 INFO  [Log] Opening Browser 
+2016-09-22 20:54:52,015 INFO  [Log] Chrome browser started 
+2016-09-22 20:54:52,302 INFO  [Log] Navigating to URL 
+2016-09-22 20:54:59,747 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 20:55:02,304 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 20:55:06,848 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 20:55:11,423 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 20:55:13,900 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 20:55:18,404 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-22 20:55:25,874 INFO  [Log] Closing the browser 
+2016-09-22 20:55:35,155 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 20:55:35,155 INFO  [Log] X 
+2016-09-22 20:55:35,155 INFO  [Log] X 
+2016-09-22 20:55:35,155 INFO  [Log] X 
+2016-09-22 20:55:35,155 INFO  [Log] X 
+2016-09-22 20:55:35,155 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:55:35,155 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:55:35,155 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 20:55:35,155 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:55:35,155 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:55:35,158 INFO  [Log] Opening Browser 
+2016-09-22 20:55:39,944 INFO  [Log] Mozilla browser started 
+2016-09-22 20:55:40,072 INFO  [Log] Navigating to URL 
+2016-09-22 20:55:47,593 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 20:55:50,105 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 20:55:54,421 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 20:55:58,776 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 20:56:01,109 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 20:56:05,433 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-22 20:56:12,841 INFO  [Log] Closing the browser 
+2016-09-22 20:56:14,224 ERROR [Log] Not able to Close the Browser --- Error communicating with the remote browser. It may have died.
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=1712, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: e2c0abf8-3bef-4f10-a377-b9067397afdb 
+2016-09-22 20:56:19,335 INFO  [Log] Closing the browser 
+2016-09-22 20:56:27,386 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 20:56:27,386 INFO  [Log] X 
+2016-09-22 20:56:27,386 INFO  [Log] X 
+2016-09-22 20:56:27,386 INFO  [Log] X 
+2016-09-22 20:56:27,386 INFO  [Log] X 
+2016-09-22 20:56:27,386 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:56:27,386 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:56:27,386 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 20:56:27,386 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:56:27,386 INFO  [Log] **************************************************************************************** 
+2016-09-22 20:56:27,389 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-09-22 20:56:27,390 INFO  [Log] Opening Browser 
+2016-09-22 20:56:29,930 INFO  [Log] IE browser started 
+2016-09-22 20:56:29,975 INFO  [Log] Navigating to URL 
+2016-09-22 20:56:37,298 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 20:56:39,946 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 20:56:44,674 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 20:56:49,299 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 20:56:51,915 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 20:56:56,484 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-22 20:57:04,047 INFO  [Log] Closing the browser 
+2016-09-22 20:57:13,068 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 20:57:13,068 INFO  [Log] X 
+2016-09-22 20:57:13,068 INFO  [Log] X 
+2016-09-22 20:57:13,068 INFO  [Log] X 
+2016-09-22 20:57:13,068 INFO  [Log] X 
+2016-09-22 21:01:17,525 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:01:17,525 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:01:17,526 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 21:01:17,526 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:01:17,526 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:01:17,532 INFO  [Log] Opening Browser 
+2016-09-22 21:01:20,818 INFO  [Log] Chrome browser started 
+2016-09-22 21:01:21,026 INFO  [Log] Navigating to URL 
+2016-09-22 21:01:28,376 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 21:01:30,953 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 21:01:35,461 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 21:01:40,055 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 21:01:42,484 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 21:01:46,899 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-22 21:01:54,419 INFO  [Log] Closing the browser 
+2016-09-22 21:02:03,746 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 21:02:03,746 INFO  [Log] X 
+2016-09-22 21:02:03,746 INFO  [Log] X 
+2016-09-22 21:02:03,746 INFO  [Log] X 
+2016-09-22 21:02:03,746 INFO  [Log] X 
+2016-09-22 21:02:03,747 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:02:03,747 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:02:03,747 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 21:02:03,747 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:02:03,747 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:02:03,750 INFO  [Log] Opening Browser 
+2016-09-22 21:02:08,075 INFO  [Log] Mozilla browser started 
+2016-09-22 21:02:08,193 INFO  [Log] Navigating to URL 
+2016-09-22 21:02:16,591 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 21:02:19,045 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 21:02:23,372 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 21:02:27,901 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 21:02:30,237 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 21:02:32,730 ERROR [Log] Not able to Enter UserName --- Failed to decode response from marionette (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 429 milliseconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=4484, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: 53b0c8a7-755b-4900-9a75-c86ca8d5b4f0 
+2016-09-22 21:02:37,795 INFO  [Log] Closing the browser 
+2016-09-22 21:02:38,128 ERROR [Log] Not able to Close the Browser --- Tried to run command without establishing a connection (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 331 milliseconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=4484, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: 53b0c8a7-755b-4900-9a75-c86ca8d5b4f0 
+2016-09-22 21:02:38,186 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 21:02:38,186 INFO  [Log] X 
+2016-09-22 21:02:38,186 INFO  [Log] X 
+2016-09-22 21:02:38,186 INFO  [Log] X 
+2016-09-22 21:02:38,186 INFO  [Log] X 
+2016-09-22 21:02:38,186 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:02:38,186 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:02:38,186 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 21:02:38,187 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:02:38,187 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:02:38,189 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-09-22 21:02:38,190 INFO  [Log] Opening Browser 
+2016-09-22 21:02:45,409 INFO  [Log] IE browser started 
+2016-09-22 21:02:45,488 INFO  [Log] Navigating to URL 
+2016-09-22 21:02:45,522 INFO  [Log] Not able to navigate --- Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:44993/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: d0aed88e-fd27-40da-939e-711ce5bf0569 
+2016-09-22 21:02:50,563 INFO  [Log] Closing the browser 
+2016-09-22 21:02:59,295 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 21:02:59,295 INFO  [Log] X 
+2016-09-22 21:02:59,295 INFO  [Log] X 
+2016-09-22 21:02:59,295 INFO  [Log] X 
+2016-09-22 21:02:59,295 INFO  [Log] X 
+2016-09-22 21:06:17,553 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:06:17,554 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:06:17,554 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 21:06:17,554 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:06:17,554 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:06:17,561 INFO  [Log] Opening Browser 
+2016-09-22 21:06:20,839 INFO  [Log] Chrome browser started 
+2016-09-22 21:06:21,093 INFO  [Log] Navigating to URL 
+2016-09-22 21:06:28,255 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 21:06:30,757 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 21:06:35,293 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 21:06:39,892 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 21:06:42,365 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 21:06:46,768 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-22 21:06:54,323 INFO  [Log] Closing the browser 
+2016-09-22 21:07:03,598 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 21:07:03,598 INFO  [Log] X 
+2016-09-22 21:07:03,598 INFO  [Log] X 
+2016-09-22 21:07:03,598 INFO  [Log] X 
+2016-09-22 21:07:03,598 INFO  [Log] X 
+2016-09-22 21:07:03,599 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:07:03,599 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:07:03,599 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 21:07:03,599 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:07:03,599 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:07:03,601 INFO  [Log] Opening Browser 
+2016-09-22 21:07:08,648 INFO  [Log] Mozilla browser started 
+2016-09-22 21:07:08,735 INFO  [Log] Navigating to URL 
+2016-09-22 21:07:09,935 INFO  [Log] Not able to navigate --- Failed to decode response from marionette (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.16 seconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=9332, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: c6dd29cf-9e52-4676-9e4b-561e6021de7e 
+2016-09-22 21:07:15,046 INFO  [Log] Closing the browser 
+2016-09-22 21:07:15,205 ERROR [Log] Not able to Close the Browser --- Tried to run command without establishing a connection (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 157 milliseconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=9332, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: c6dd29cf-9e52-4676-9e4b-561e6021de7e 
+2016-09-22 21:07:15,261 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 21:07:15,261 INFO  [Log] X 
+2016-09-22 21:07:15,261 INFO  [Log] X 
+2016-09-22 21:07:15,261 INFO  [Log] X 
+2016-09-22 21:07:15,261 INFO  [Log] X 
+2016-09-22 21:07:15,261 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:07:15,261 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:07:15,261 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 21:07:15,261 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:07:15,262 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:07:15,264 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-09-22 21:07:15,265 INFO  [Log] Opening Browser 
+2016-09-22 21:07:17,483 INFO  [Log] IE browser started 
+2016-09-22 21:07:17,543 INFO  [Log] Navigating to URL 
+2016-09-22 21:07:19,052 INFO  [Log] Not able to navigate --- Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:4470/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 399dc92c-53f8-4895-a421-178eab13350c 
+2016-09-22 21:07:24,095 INFO  [Log] Closing the browser 
+2016-09-22 21:07:32,845 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 21:07:32,845 INFO  [Log] X 
+2016-09-22 21:07:32,845 INFO  [Log] X 
+2016-09-22 21:07:32,845 INFO  [Log] X 
+2016-09-22 21:07:32,845 INFO  [Log] X 
+2016-09-22 21:09:22,590 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:09:22,591 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:09:22,591 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 21:09:22,591 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:09:22,591 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:09:22,596 INFO  [Log] Opening Browser 
+2016-09-22 21:09:25,598 INFO  [Log] Chrome browser started 
+2016-09-22 21:09:25,848 INFO  [Log] Navigating to URL 
+2016-09-22 21:09:33,135 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Username 
+2016-09-22 21:09:35,682 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Username 
+2016-09-22 21:09:40,329 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Next 
+2016-09-22 21:09:44,889 INFO  [Log] Clicking on Webelement txtbx_Appln-Yahoo_Password 
+2016-09-22 21:09:47,329 INFO  [Log] Entering the text in txtbx_Appln-Yahoo_Password 
+2016-09-22 21:09:51,727 INFO  [Log] Clicking on Webelement btn_Appln-Yahoo_Sigin 
+2016-09-22 21:09:59,234 INFO  [Log] Closing the browser 
+2016-09-22 21:10:08,525 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 21:10:08,525 INFO  [Log] X 
+2016-09-22 21:10:08,525 INFO  [Log] X 
+2016-09-22 21:10:08,525 INFO  [Log] X 
+2016-09-22 21:10:08,525 INFO  [Log] X 
+2016-09-22 21:10:08,526 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:10:08,526 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:10:08,526 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 21:10:08,526 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:10:08,526 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:10:08,529 INFO  [Log] Opening Browser 
+2016-09-22 21:10:13,114 INFO  [Log] Mozilla browser started 
+2016-09-22 21:10:13,294 INFO  [Log] Navigating to URL 
+2016-09-22 21:10:16,566 INFO  [Log] Not able to navigate --- Failed to decode response from marionette (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.24 seconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=3820, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: df39d48d-81c3-4d5f-a967-b600e7f155b6 
+2016-09-22 21:10:21,623 INFO  [Log] Closing the browser 
+2016-09-22 21:10:21,841 ERROR [Log] Not able to Close the Browser --- Tried to run command without establishing a connection (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 216 milliseconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, appBuildId=20160916101415, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=3820, browserVersion=49.0, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt, device=desktop}]
+Session ID: df39d48d-81c3-4d5f-a967-b600e7f155b6 
+2016-09-22 21:10:21,893 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 21:10:21,893 INFO  [Log] X 
+2016-09-22 21:10:21,893 INFO  [Log] X 
+2016-09-22 21:10:21,893 INFO  [Log] X 
+2016-09-22 21:10:21,893 INFO  [Log] X 
+2016-09-22 21:10:21,893 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:10:21,893 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:10:21,893 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-22 21:10:21,893 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:10:21,893 INFO  [Log] **************************************************************************************** 
+2016-09-22 21:10:21,896 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-09-22 21:10:21,896 INFO  [Log] Opening Browser 
+2016-09-22 21:10:24,021 INFO  [Log] IE browser started 
+2016-09-22 21:10:24,099 INFO  [Log] Navigating to URL 
+2016-09-22 21:10:25,343 INFO  [Log] Not able to navigate --- Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: 'unknown', revision: 'c7b525d', time: '2016-09-01 14:57:44 -0700'
+System info: host: 'sayoghos', ip: '192.168.1.34', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, pageLoadStrategy=normal, ie.usePerProcessProxy=false, ignoreZoomSetting=false, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:41814/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=false, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 7ce39b06-cb4f-4e83-9cbf-3c2ff70fa75d 
+2016-09-22 21:10:30,396 INFO  [Log] Closing the browser 
+2016-09-22 21:10:39,169 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-22 21:10:39,169 INFO  [Log] X 
+2016-09-22 21:10:39,169 INFO  [Log] X 
+2016-09-22 21:10:39,169 INFO  [Log] X 
+2016-09-22 21:10:39,169 INFO  [Log] X 

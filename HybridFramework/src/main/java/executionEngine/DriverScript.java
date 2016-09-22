@@ -99,7 +99,7 @@ public class DriverScript {
 				       
 					fileLocdir="C:\\TestExecutionRuns\\"+df.format(dateobj)+"\\"+sTestCaseID;
 					
-					new File(fileLocdir).mkdir();
+					new File(fileLocdir).mkdirs();
 					
 					iTestStep = ExcelUtils.getRowContains(sTestCaseID, Constants.Col_TestCaseID, Constants.Sheet_TestSteps);
 					iTestLastStep = ExcelUtils.getTestStepsCount(Constants.Sheet_TestSteps, sTestCaseID, iTestStep);

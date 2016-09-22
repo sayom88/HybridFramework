@@ -215,12 +215,18 @@ public class ActionKeywords {
 
 	public static void captureScreenShot(WebDriver driver){
 		// Take screenshot and store as a file format             
-		 File src=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);           
+		 File src=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);   
+		 
+			System.out.println("src::"+src);
+			
 		try {
 		// now copy the  screenshot to desired location using copyFile method
-			String destfileloc=DriverScript.fileLocdir+DriverScript.sTestStepID;
 			
-		FileUtils.copyFile(src, new File(destfileloc+".png"));
+			String destfileloc=DriverScript.fileLocdir+"\\";
+			
+			System.out.println("destfileloc::"+destfileloc);
+			
+		FileUtils.copyFile(src, new File(destfileloc+DriverScript.sTestStepID+".png"));
 		} catch (IOException e)
 		 
 		{
