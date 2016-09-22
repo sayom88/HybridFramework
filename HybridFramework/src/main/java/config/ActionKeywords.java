@@ -1,11 +1,16 @@
 package config;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.Enumeration;
 import java.util.concurrent.TimeUnit;
+import org.apache.commons.io.FileUtils;
 
 import static executionEngine.DriverScript.OR;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -27,12 +32,16 @@ public class ActionKeywords {
 				driver=new FirefoxDriver();
 				   //Maximize the browser
 				  driver.manage().window().maximize();
+				  Thread.sleep(1000);
+				  captureScreenShot(driver);
 				Log.info("Mozilla browser started");				
 				}
 			else if(data.equals("IE")){
 				//Dummy Code, Implement you own code
 				System.setProperty("webdriver.ie.driver","C://ECLIPSE_WORKSPACE//IEDriverServer.exe");
 				driver=new InternetExplorerDriver();
+				 Thread.sleep(1000);
+				captureScreenShot(driver);
 				Log.info("IE browser started");
 				}
 			else if(data.equals("Chrome")){
@@ -42,6 +51,8 @@ public class ActionKeywords {
 				driver=new ChromeDriver();
 				 //Maximize the browser
 				driver.manage().window().maximize();
+				 Thread.sleep(1000);
+				captureScreenShot(driver);
 				Log.info("Chrome browser started");
 				}
 			
@@ -62,6 +73,7 @@ public class ActionKeywords {
 			driver.get(data);
 			//driver.get(Constants.URL);
 			Thread.sleep(1000);
+			captureScreenShot(driver);
 			// driver.navigate().to(Constants.URL);
 		}catch(Exception e){
 			Log.info("Not able to navigate --- " + e.getMessage());
@@ -112,7 +124,11 @@ public class ActionKeywords {
 			
 			driver.findElement(By.xpath(value)).click();
 			
+			captureScreenShot(driver);
+			
 			Thread.sleep(2000);
+			
+			
 			
 		 }catch(Exception e){
  			Log.error("Not able to click --- " + e.getMessage());
@@ -161,6 +177,8 @@ public class ActionKeywords {
 			driver.findElement(By.xpath(value)).sendKeys(data);
 			Thread.sleep(2000);
 			
+			captureScreenShot(driver);
+			
 		 }catch(Exception e){
 			 Log.error("Not able to Enter UserName --- " + e.getMessage());
 			 DriverScript.bResult = false;
@@ -195,4 +213,19 @@ public class ActionKeywords {
          	}
 		}
 
+	public static void captureScreenShot(WebDriver driver){
+		// Take screenshot and store as a file format             
+		 File src=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);           
+		try {
+		// now copy the  screenshot to desired location using copyFile method
+			String destfileloc=DriverScript.fileLocdir+DriverScript.sTestStepID;
+			
+		FileUtils.copyFile(src, new File(destfileloc+".png"));
+		} catch (IOException e)
+		 
+		{
+		  System.out.println(e.getMessage());
+		 }
+		  }
+	
 	}
